@@ -3,6 +3,8 @@
 > [!CAUTION]
 > Todas as informações aqui podem e devem ser duvidosas.
 
+>A seguir uns conceitos gerais e basico sobre os conteudos
+
 ## Introdução à Estatística Descritiva
 A estatística descritiva é um ramo da estatística que se preocupa em resumir e descrever os aspectos importantes de conjuntos de dados. Ela oferece métodos para organizar, resumir e apresentar dados de forma informativa e significativa.
 
@@ -22,5 +24,3 @@ As medidas de tendência central, como a média, a mediana e a moda, são usadas
 ### Medidas de Dispersão
 As medidas de dispersão, como a amplitude, o desvio padrão e a variância, indicam o quanto os dados estão dispersos ou espalhados em torno da medida de tendência central. Elas fornecem informações sobre a variabilidade dos dados.
 
----
-Este resumo fornece uma visão geral dos conceitos básicos da estatística descritiva, incluindo a introdução aos experimentos aleatórios, a definição de população e espaço amostral, além da organização e descrição de dados através de tabelas
