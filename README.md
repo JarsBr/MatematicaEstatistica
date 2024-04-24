@@ -1,8 +1,5 @@
 # Resumo de Estatística Descritiva
 
-> [!CAUTION]
-> Todas as informações aqui podem e devem ser duvidosas.
-
 >A seguir uns conceitos gerais e basico sobre os conteudos
 
 ## Introdução à Estatística Descritiva
